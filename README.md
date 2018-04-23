@@ -22,6 +22,8 @@ H Company Using Git by Proxy
     PassLM 
   - 然后需要将生成的相关信息放入cntlm.ini 下的 PassNTLMv2下
     测试IE下的代理指向 127.0.0.1 3128 (port 在ini文件中指定)
+  + 设置系统环境变量 HTTP_PROXY http://127.0.0.1:3128 HTTPS_PROXY https://127.0.0.1:3128
+  
 
 解决使用GIT通过Proxy
 
