@@ -2,6 +2,7 @@
 
 + Typora 如何同步文章到Github
 + <http://whuhan2013.github.io/blog/2015/09/19/markdown-simple-grammar/>
++ http://www.april1985.com 关于重读书的收获
  
 
 #### 产品定义
