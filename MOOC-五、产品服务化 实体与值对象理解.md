@@ -3,6 +3,7 @@
 + Typora 如何同步文章到Github
 + <http://whuhan2013.github.io/blog/2015/09/19/markdown-simple-grammar/>
 + http://www.april1985.com 关于重读书的收获
++ https://www.jianshu.com/p/f966715cfc12 敲代码前先构思一下-Graphviz-01
  
 
 #### 产品定义
